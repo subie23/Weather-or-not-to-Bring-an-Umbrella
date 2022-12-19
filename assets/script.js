@@ -22,7 +22,7 @@ function initPage() {
         axios.get(queryURL)
             .then(function (response) {
 
-                todayweatherEl.classList.remove("d-none");
+                todaysweatherEl.classList.remove("d-none");
 
                 // Parse response to display current weather
                 const currentDate = new Date(response.data.dt * 1000);
