@@ -1,7 +1,7 @@
 # Weather-or-not-to-Bring-an-Umbrella
 This app allows the user to search for a city to get that city's 5 day forecast with the temperature, wind speed, and the humidity.
 
-The tools used:
+Tools used:
 - HTML
 - Javascript
 - OpenWeather API
