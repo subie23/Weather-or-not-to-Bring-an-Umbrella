@@ -6,7 +6,7 @@ The tools used:
 - Javascript
 - OpenWeather API
 
-Here is a screenshot:
+A screenshot of the app:
 
 <img width="954" alt="weather screenshot" src="https://user-images.githubusercontent.com/105945177/208526582-9b616636-6404-4e9d-9056-5146b53e8591.png">
 
