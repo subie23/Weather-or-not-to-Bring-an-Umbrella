@@ -4,7 +4,7 @@ This app allows the user to search for a city to get that city's 5 day forecast 
 Tools used:
 - HTML
 - Javascript
-- OpenWeather API
+- OpenWeatherMap API
 
 A screenshot of the app:
 
