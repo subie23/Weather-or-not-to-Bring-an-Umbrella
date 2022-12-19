@@ -1,10 +1,10 @@
 # Weather-or-not-to-Bring-an-Umbrella
-This app allows the user to search for a city to get that city's 5 day forecast with the temperature, wind speed, and the humidity.
+This app allows the user to search for a city to get that city's 5 day weather forecast with the temperature, wind speed, and the humidity. When the user searches for a different city, the previous city is added to the search history. Any city that is in the search history can be accessed quickly just by clicking on it.
 
 Tools used:
 - HTML
 - Javascript
-- OpenWeatherMap API
+- OpenWeather API
 
 A screenshot of the app:
 
